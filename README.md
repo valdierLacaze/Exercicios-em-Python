@@ -1,2 +1,2 @@
-# Listas---Python
+# Listas -> Python
 Exercícios sobre Listas em Python
