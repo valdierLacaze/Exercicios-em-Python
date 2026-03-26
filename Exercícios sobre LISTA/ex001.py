@@ -1,3 +1,12 @@
+"""
+Faça um programa que ajude um jogador da MEGA SENA a criar palpites. O programa vai
+perguntar quantos jogos serão gerados e vai sortear 6 números entre 1 e 6
+para cada jogo, cadastrando tudo em uma lista composta.
+OBS: os números gerados não podem se repetir dentro da lista.
+
+"""
+
+
 from random import randint
 quant = int(input('Quantos jogos serão gerados? '))
 jogos = []

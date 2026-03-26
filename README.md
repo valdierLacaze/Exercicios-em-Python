@@ -1,2 +1,2 @@
-# Listas -> Python
-Exercícios sobre Listas em Python!
+# PYTHON
+Aqui será estudada a linguagem Python, com pastas preenchidas com exercícios sobre algum tema da linguagem, como estruturas de repetição, tuplas, listas e dicionários, funções, manipulação de string, etc.
